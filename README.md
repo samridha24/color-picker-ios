@@ -16,8 +16,8 @@ An interactive iOS app built using **Swift** and **UIKit** that allows users to 
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="screenshots/screen1.png" width="250"/>
-  <img src="screenshots/screen2.png" width="250"/>
+  <img src="screenshots/1.png" width="250"/>
+  <img src="screenshots/2.png" width="250"/>
 </p>
 
 ## 🧠 Key Learnings
