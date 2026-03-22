@@ -15,8 +15,10 @@ An interactive iOS app built using **Swift** and **UIKit** that allows users to 
 * Storyboard
 
 ## 📸 Screenshots
-![App UI](screenshots/1.png)
-![App UI](screenshots/2.png)
+<p align="center">
+  <img src="screenshots/screen1.png" width="250"/>
+  <img src="screenshots/screen2.png" width="250"/>
+</p>
 
 ## 🧠 Key Learnings
 
