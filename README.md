@@ -7,7 +7,6 @@ An interactive iOS app built using **Swift** and **UIKit** that allows users to 
 * Real-time color preview
 * RGB slider-based selection
 * Instant UI updates
-* Clean and responsive interface
 
 ## 🛠 Tech Stack
 
@@ -15,6 +14,9 @@ An interactive iOS app built using **Swift** and **UIKit** that allows users to 
 * UIKit
 * Storyboard
 
+## 📸 Screenshots
+![App UI](screenshots/1.png)
+![App UI](screenshots/2.png)
 
 ## 🧠 Key Learnings
 
