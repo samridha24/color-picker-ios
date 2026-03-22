@@ -15,9 +15,6 @@ An interactive iOS app built using **Swift** and **UIKit** that allows users to 
 * UIKit
 * Storyboard
 
-## 📸 Screenshots
-
-(Add your app screenshots here)
 
 ## 🧠 Key Learnings
 
